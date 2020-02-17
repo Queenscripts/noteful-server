@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Thomas `tomatao` Hudspith-Tatham <iammotivated@gmail.com>",
+  "author": "Queen Shabazz <code@queenscript.com>",
   "license": "MIT",
   "dependencies": {
     "faker": "^4.1.0",
